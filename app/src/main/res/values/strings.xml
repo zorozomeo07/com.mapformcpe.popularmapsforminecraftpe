@@ -1,3 +1,42 @@
 <resources>
-    <string name="app_name">AppKem</string>
+    <string name="app_name">Kubet Map BodySkin </string>
+    <string name="name_about">
+Welcome to the Body Skin application, where there are many character skins and game maps for your reference!
+    </string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    <string name="sent">Info</string>
+    <string name="policy">Privacy Policy</string>
+    <string name="poli1">
+        Game Minecraft là một trò chơi sinh tồn hấp dẫn với đồ họa nhiều màu sắc cùng những cục pixel đưa bạn khám phá một thế giới độc đáo. Trò chơi này nhanh chóng chiếm trọn cảm tình của game thủ trên toàn thế giới ngay từ khi ra mắt. Vậy điều gì làm nên sức hút của thế giới lập phương này? Mình sẽ giúp bạn hiểu hơn về tựa game PC trên thông qua bài viết lần này!
+
+        Minecraft là một trò chơi điện tử thuộc thể loại sandbox, vốn là một nhánh của game thế giới mở. Tựa game này được khai sinh bởi một lập trình viên người Thụy Điển và phiên bản đầu tiên của game Minecraft được ra mắt vào năm 2009 trên TIGSource. Đến năm 2011, Mojang tiếp tục phát triển trò chơi và phát hành tại nhiều nước trên thế giới.
+
+Đến năm 2014, Microsoft chính thức mua lại bản quyền của trò chơi này. Hiện tại, game Minecraft đang được phát hành bởi Xbox Game Studios.
+
+        Thông tin tổng quan về game Minecraft:
+
+Thể loại: Sandbox, Nhập vai, Phiêu lưu, Hành động.
+Đồ họa: 3D.
+Độ tuổi: 5 tuổi trở lên.
+Nền tảng: Windows, Android, iOS 9.0 trở lên, macOS, Nintendo Switch, Xbox 360, PlayStation 3 trở lên, Linux, Windows Phone, Wii.
+Nhà phát hành: Xbox Game Studios.
+Ngày ra mắt phiên bản đầu tiên: 2009.
+    </string>
+    <string name="poli2">
+       Thuộc thể loại thế giới mở, game Minecraft cũng tương tự như nhiều dòng game sinh tồn khác. Tại đây, người chơi cần phải làm mọi thứ để đạt được kết quả cuối cùng là sinh tồn trong thế giới này.
+
+Game Minecraft sở hữu hai góc nhìn: góc nhìn thứ nhất và góc nhìn thứ ba. Tùy theo sở thích mà game thủ có thể chọn lựa chọn góc nhìn sao cho bản thân thấy thoải mái nhất.
+
+        Với một thế giới được tạo ra từ những khối lập phương, game Minecraft mang đến sự hấp dẫn hơn cả tưởng tượng. Người chơi sẽ tự ghép những khối lập phương để tạo thành vũ khí chiến đấu, công cụ sử dụng cũng như tạo dựng những kiến trúc đồ sộ phục vụ cuộc sống thường nhật.
+    </string>
+    <string name="poli3">
+        Với một thế giới được tạo ra từ những khối lập phương, game Minecraft mang đến sự hấp dẫn hơn cả tưởng tượng. Người chơi sẽ tự ghép những khối lập phương để tạo thành vũ khí chiến đấu, công cụ sử dụng cũng như tạo dựng những kiến trúc đồ sộ phục vụ cuộc sống thường nhật.
+
+        Để bắt đầu chơi game Minecraft sinh tồn, bạn cần biết về các chế độ chơi của tựa game này. Hiện tại, nhà phát hành cung cấp 2 chế độ chơi: Chơi đơn và chơi nhiều người.
+
+        Trong quá trình chơi game, bạn sẽ tự tìm kiếm và thu thập tài nguyên để xây dựng nơi trú ẩn, ngăn chặn sự tấn công của quái vật. Đồng thời bạn cũng cần phải chế tạo các công cụ sinh tồn để chiến đấu khi cần thiết. Ngoài ra, bạn cũng có thể tìm kiếm thức ăn và khai thác than để sinh tồn giữa thế giới.
+
+        Game Minecraft mang đến một hệ thống bản đồ cực kỳ đa dạng. Nhờ vậy bạn sẽ không cảm thấy nhàm chán do thuộc bản đồ như nhiều dòng game khác. Với thế giới mở của Minecraft, bạn sẽ tự do khám phá thế giới sinh tồn đầy hấp dẫn.....
+    </string>
 </resources>
